@@ -22,17 +22,21 @@ For personalized genomics, we will also cover the integration of heterogeneous s
 For precision medicine, we will cover protein-RNA interactions, biological graph analysis, and a gentle introduction to biomedical imaging and electronic health records.
 
 #### Teaching team
-Lecturer: 
-Yu LI (<span style="color: #0099e6">liyu@cse.cuhk.edu.hk</span>), SHB-106. Office hour: 3pm-5pm, Friday <br>
-TA: <br>
-Qinze YU (<span style="color: #0099e6">qzyu22@cse.cuhk.edu.hk</span>), SHB-116. Office hour: 2pm-4pm, Monday <br>
-Yixuan WANG (<span style="color: #0099e6">yxwang@cse.cuhk.edu.hk</span>), SHB-116. Office hour: 1pm-3pm, Tuesday <br>
-Jiuming WANG (<span style="color: #0099e6">jmwang9@cse.cuhk.edu.hk</span>), SHB-122. Office hour: 2pm-4pm, Thursday <br>
+Lecturer:
+<ul>
+<li>Yu LI (<span style="color: #0099e6">liyu@cse.cuhk.edu.hk</span>), SHB-106. Office hour: 3pm-5pm, Friday</li>
+</ul>
+TA:
+<ul>
+<li>Qinze YU (<span style="color: #0099e6">qzyu22@cse.cuhk.edu.hk</span>), SHB-116. Office hour: 2pm-4pm, Monday </li>
+<li>Yixuan WANG (<span style="color: #0099e6">yxwang@cse.cuhk.edu.hk</span>), SHB-116. Office hour: 1pm-3pm, Tuesday</li>
+<li>Jiuming WANG (<span style="color: #0099e6">jmwang9@cse.cuhk.edu.hk</span>), SHB-122. Office hour: 2pm-4pm, Thursday</li>
+</ul>
 
 #### Time and location
-<b>Wednesday</b>: <b>9:30am-11:15am</b>, <b>MMW-703</b>. <br>
-<b>Friday</b>: <b>9:30am-10:15am</b>, <b>MMW-703</b>. <br>
-<b>Friday</b>: <b>10:30am-11:15am</b>, <b>MMW-703</b> (Tutorial). <br>
+<b>Wednesday</b>: <b>9:30am-11:15am</b>, <b>MMW-703</b> <br>
+<b>Friday</b>: <b>9:30am-10:15am</b>, <b>MMW-703</b> <br>
+<b>Friday</b>: <b>10:30am-11:15am</b>, <b>MMW-703</b> (Tutorial) <br>
 
 #### Format
 Mixed. Slides will be available the day before the lecture day. Video recordings will be available after the lecture.
@@ -48,15 +52,20 @@ You are also very welcomed to send <b>emails</b> to the instructor and TAs.
 
 #### Grading
 <ul>
-<li><b>Homework (20%)</b>: Three graded homework (A1, A2, A3; 5%+5%+5%) and one non-graded programming assignment (PA0; 5%, to ensure you can learn something from it).</li>
+<li><b>Homework (20%)</b>: Three graded homework (A1, A2, A3; 5%, 5%, 5%) and one non-graded programming assignment (PA0; 5%, to ensure you can learn something from it).</li>
 <li><b>Scribing (10%)</b>: Graded scribing. Summarize one of the lectures. Submit it within one week after the course. Each student should do at least one lecture. You can sign for at most two, for additional 1%.</li>
-<li><b>In-class quiz (10%)</b>: Two in-class quizzes. The questions will be simple. Mainly for checking the participation. The exact date are in the schedule below.</li>
-<li><b>Midterm exam (20%)</b>: A graded midterm exam with one bonus question (2%). </li>
-<li><b>Project (20%)</b>: A graded individual project. You can give us your project and seek our help, or we will predefine some projects for you to choose from. The project has four components: a midterm report (5%), a final report (7%), presentation (3%), and the implementation (5%). </li>
+<li><b>In-class quiz (10%)</b>: Two in-class quizzes. The questions will be simple, mainly for checking the participation. The exact date is in the schedule below.</li>
+<li><b>Midterm exam (20%)</b>: A graded midterm exam with one bonus question (extra 2%). </li>
+<li><b>Project (20%)</b>: A graded individual project with a pre-defined or self-proposed topic. The project has four components: a midterm report (5%), a final report (7%), presentation (3%), and the implementation (5%). </li>
 <li><b>Final exam (20%)</b>: A graded final exam.</li>
 </ul>
 
-<b>Bonus (up to 6%)</b>: One bonus question in the Midterm exam. One additional scribing: 1%. <b>Pre-course survey</b> + <b>Post-lecture survey</b>: 0.5% for each, and the maximum is 3%. I do encourage you to complete all of them so that to let me know your feedback and adjust the course accordingly. Send your names to the TA. 
+<b>Bonus (up to 6%)</b>: 
+<ul>
+<li>One bonus question in the Midterm exam.</li>
+<li>One additional scribing: 1%.</li>
+<li>Pre-course survey and post-lecture surveys: 0.5% for each, and the maximum is 3%. I do encourage you to complete all of them so that to let me know your feedback and adjust the course accordingly. Send your names to the TAs after completion. </li>
+</ul>
 
 #### Open-book quiz and exam policy
 All exams and quiz are open-book. You are allowed to take any <b>paper-based materials</b>. However, no phone or computer is allowed. Other communication tools are also not allowed. Discussion is not allowed.
