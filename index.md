@@ -122,9 +122,9 @@ But we will check the things in detail if the number of survey forms we received
 
 
 
-| Lecture | Date         | Location | Topic                                           | Slides/Video | Notes | Reading | Important dates (All due at <span style="color:red;">11:59 pm</span>)        |
+| Lecture | Date         | Location | Topic                                           | Slides| Notes | Reading | Important dates (All due at <span style="color:red;">11:59 pm</span>)        |
 |---------|--------------|----------|-------------------------------------------------|--------------|-------|---------|------------------------------------------------------------------------------|
-| 1       | Sep 6 (Wed)  | MMW703   | Introduction                                    |              |       |         |                                                                              |
+| 1       | Sep 6 (Wed)  | MMW703   | Introduction                                    | <a href="https://www.dropbox.com/scl/fi/33m42g2b5msgtykrenayi/lec1-Intro.pdf?rlkey=63nlsxqhi7tlb0ie8uzh5g9hc&dl=0">Lec-1</a>              |       |  <a href="https://www.dropbox.com/scl/fi/wj0c5t685ifh066c89kls/BMEG3150_Course-Outline_1st-Term_2023-24.doc?rlkey=bty4qjfrhrtc04kzua931ov3l&dl=0">Course outline</a>        |                                                                              |
 | 2       | Sep 8 (Fri)  | MMW703   | Data & Python                                   |              |       |         | PA0 posted                                                                   |
 | 3       | Sep 13 (Wed) | MMW703   | Sequence and DP                                 |              |       |         | <span style="color:red;">PA0 due</span>                                      |
 | 4       | Sep 15 (Fri) | MMW703   | Assembly & Mapping                              |              |       |         | A1 posted                                                                    |
