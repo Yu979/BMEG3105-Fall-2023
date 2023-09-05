@@ -108,7 +108,7 @@ A maximum of 2 late days can be used for each assignment. Grades will be deducte
 #### Post-lecture survey 
 Deadline for each survey: <span style="color: red; font-weight: bold">11:59pm on the day before the next lecture</span>. 
 We do this because we could have time to answer the questions you mentioned in the survey. 
-Please enter a "1" in the Google sheet: <a href="https://docs.google.com/spreadsheets/d/1D6fW_VH6zv6gjejbQ6u5PGJIWbgWpFe-sDG-TuiFnsI/edit?usp=sharing">Survey results</a>, once you have finished one survey. 
+Please enter a "1" in the Google sheet: <a href="https://docs.google.com/spreadsheets/d/1plkeGORUchj93L16yo6DCzptws9nHcKRCmDpjW4yo-Y/edit?usp=sharing">Survey results</a>, once you have finished one survey. 
 Usually, we will trust the 1s you fill in the Google sheet. 
 But we will check the things in detail if the number of survey forms we received and the number of 1s on the Google sheet is not consistent.
 
