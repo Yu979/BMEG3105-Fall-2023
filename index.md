@@ -70,6 +70,11 @@ You are also very welcomed to send emails to the teaching team.
 #### Open-book quiz and exam policy
 All exams and quizzes are open-book. You are allowed to take any <b>paper-based materials</b>. However, no phone or computer is allowed. Other communication tools are also not allowed. Discussion is not allowed.
 
+#### AI tools use policy
+You can use AI tools including ChatGPT in the project to polish your report.
+However, you are required to submit both your own version and the one polished using AI tools.
+You are required to make it clear how you used AI tools and which part in the report.
+We will grade on the one you would like us to grade, but if you do not hand in your own version, we would not consider the submission complete.
 
 #### Programming
 Python (the TA will prepare a recitation class to introduce it, mainly for the non-grading homework and your project) or any other languages that you are familiar with. 
@@ -150,6 +155,7 @@ But we will check the things in detail if the number of survey forms we received
 
 ### <a id="assignments">Assignments</a>
 <ul>
+  
 <li>Programming Assignment 0: Get yourself familiar with <a href="https://colab.research.google.com/notebooks/intro.ipynb">Colab</a>, set up the environment and run a sample code.
 
 <li>Assignment 1: Basic concept of data analytics-1</li>
@@ -160,4 +166,3 @@ But we will check the things in detail if the number of survey forms we received
 
 <li>Assignment 3: DA in Personalized Genomics and Precision Medicine</li>
 
-</ul>
