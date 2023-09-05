@@ -34,21 +34,21 @@ TA:
 </ul>
 
 #### Time and location
-<b>Wednesday</b>: <b>9:30am-11:15am</b>, <b>MMW-703</b> <br>
-<b>Friday</b>: <b>9:30am-10:15am</b>, <b>MMW-703</b> <br>
-<b>Friday</b>: <b>10:30am-11:15am</b>, <b>MMW-703</b> (Tutorial) <br>
+Wednesday: <b>9:30am-11:15am</b>, MMW 703 <br>
+Friday: <b>9:30am-10:15am</b>, MMW 703 <br>
+Friday: <b>10:30am-11:15am</b>, MMW 703 (Tutorial) <br>
 
 #### Format
-Mixed. Slides will be available the day before the lecture day. Video recordings will be available after the lecture.
+In-person. Slides will be available the day before the lecture.
 
 ### <a id="logistics">Logistics</a>
 
 #### Communications
 <b>Blackboard</b> is the main software to manage the course, and grading will be through Blackboard. 
-We will use <b>Piazza</b> (<a href="http://piazza.com/cuhk.edu.hk/fall2022/bmeg3105">BMEG3105</a>) for discussion. 
-You can ask questions through Piazza, even anonymously. 
-For a personal matter, please use the private post to the instructor and the TA. 
-You are also very welcomed to send <b>emails</b> to the instructor and TAs.
+We will use <b>Piazza</b> (<a href="https://piazza.com/cuhk.edu.hk/fall2023/bmeg3105">BMEG3105</a>) for discussion. 
+You can ask questions and discuss on Piazza, even anonymously. 
+For personal matters, please use the private post to the instructor and the TA. 
+You are also very welcomed to send emails to the teaching team.
 
 #### Grading
 <ul>
@@ -68,7 +68,7 @@ You are also very welcomed to send <b>emails</b> to the instructor and TAs.
 </ul>
 
 #### Open-book quiz and exam policy
-All exams and quiz are open-book. You are allowed to take any <b>paper-based materials</b>. However, no phone or computer is allowed. Other communication tools are also not allowed. Discussion is not allowed.
+All exams and quizzes are open-book. You are allowed to take any <b>paper-based materials</b>. However, no phone or computer is allowed. Other communication tools are also not allowed. Discussion is not allowed.
 
 
 #### Programming
@@ -119,34 +119,34 @@ But we will check the things in detail if the number of survey forms we received
 
 | Lecture | Date         | Location | Topic                                           | Slides/Video | Notes | Reading | Important dates (All due at <span style="color:red;">11:59 pm</span>)        |
 |---------|--------------|----------|-------------------------------------------------|--------------|-------|---------|------------------------------------------------------------------------------|
-| 1       | Sep 7 (Wed)  | MMW703   | Introduction                                    |              |       |         |                                                                              |
-| 2       | Sep 9 (Fri)  | MMW703   | Data & Python                                   |              |       |         | PA0 posted                                                                   |
-| 3       | Sep 14 (Wed) | MMW703   | Sequence and DP                                 |              |       |         | <span style="color:red;">PA0 due</span>                                      |
-| 4       | Sep 16 (Fri) | MMW703   | Assembly & Mapping                              |              |       |         | A1 posted                                                                    |
-| 5       | Sep 21 (Wed) | MMW703   | Data exploration                                |              |       |         |                                                                              |
-| 6       | Sep 23 (Fri) | MMW703   | Distance and clustering                         |              |       |         |                                                                              |
-| 7       | Sep 28 (Wed) | MMW703   | Classification                                  |              |       |         | <span style="color:red;">A1 due</span>                                       |
-| 8       | Sep 30 (Fri) | MMW703   | Classification                                  |              |       |         |                                                                              |
-| 9       | Oct 5 (Wed)  | MMW703   | Perf evaluation                                 |              |       |         | A2 posted                                                                    |
-| 10      | Oct 7 (Fri)  | MMW703   | Feature selection                               |              |       |         |                                                                              |
-| 11      | Oct 12 (Wed) | MMW703   | Dim reduction                                   |              |       |         |                                                                              |
-| 12      | Oct 14 (Fri) | MMW703   | Overfitting                                     |              |       |         |                                                                              |
-| 13      | Oct 19 (Wed) | MMW703   | Midterm review                                  |              |       |         | <span style="color:red;">Quiz</span>, <span style="color:red;">A2 due</span> |
-| 14      | Oct 21 (Fri) | MMW703   | Midterm                                         |              |       |         | <span style="color:red;">8:30am-11:15am, Midterm exam</span>                 |
+| 1       | Sep 6 (Wed)  | MMW703   | Introduction                                    |              |       |         |                                                                              |
+| 2       | Sep 8 (Fri)  | MMW703   | Data & Python                                   |              |       |         | PA0 posted                                                                   |
+| 3       | Sep 13 (Wed) | MMW703   | Sequence and DP                                 |              |       |         | <span style="color:red;">PA0 due</span>                                      |
+| 4       | Sep 15 (Fri) | MMW703   | Assembly & Mapping                              |              |       |         | A1 posted                                                                    |
+| 5       | Sep 20 (Wed) | MMW703   | Data exploration                                |              |       |         |                                                                              |
+| 6       | Sep 22 (Fri) | MMW703   | Distance and clustering                         |              |       |         |                                                                              |
+| 7       | Sep 27 (Wed) | MMW703   | Classification                                  |              |       |         | <span style="color:red;">A1 due</span>                                       |
+| 8       | Sep 19 (Fri) | MMW703   | Classification                                  |              |       |         |                                                                              |
+| 9       | Oct 4 (Wed)  | MMW703   | Perf evaluation                                 |              |       |         | A2 posted                                                                    |
+| 10      | Oct 6 (Fri)  | MMW703   | Feature selection                               |              |       |         |                                                                              |
+| 11      | Oct 11 (Wed) | MMW703   | Dim reduction                                   |              |       |         |                                                                              |
+| 12      | Oct 13 (Fri) | MMW703   | Overfitting                                     |              |       |         |                                                                              |
+| 13      | Oct 18 (Wed) | MMW703   | Midterm review                                  |              |       |         | <span style="color:red;">Quiz</span>, <span style="color:red;">A2 due</span> |
+| 14      | Oct 20 (Fri) | MMW703   | Midterm                                         |              |       |         | <span style="color:red;">8:30am-11:15am, Midterm exam</span>                 |
 |         |              |          | <span style="color:blue;">Module 2 start</span> |              |       |         |                                                                              |
-| 15      | Oct 26 (Wed) | MMW703   | Multi-omics overview                            |              |       |         | PA1 posted                                                                   |
-| 16      | Oct 28 (Fri) | MMW703   | Cancer genomics overview                        |              |       |         |                                                                              |
-| 17      | Nov 2 (Wed)  | MMW703   | Genomics data analysis                          |              |       |         |                                                                              |
-| 18      | Nov 4 (Fri)  | MMW703   | Single cell genomics                            |              |       |         |                                                                              |
-| 19      | Nov 9 (Wed)  | MMW703   | Data visualization                              |              |       |         | <span style="color:red;">Project M-report (Proposal)</span>                  |
-| 20      | Nov 11 (Fri) | MMW703   | TUT                                             |              |       |         |                                                                              |
+| 15      | Oct 25 (Wed) | MMW703   | Multi-omics overview                            |              |       |         | PA1 posted                                                                   |
+| 16      | Oct 27 (Fri) | MMW703   | Cancer genomics overview                        |              |       |         |                                                                              |
+| 17      | Nov 1 (Wed)  | MMW703   | Genomics data analysis                          |              |       |         |                                                                              |
+| 18      | Nov 3 (Fri)  | MMW703   | Single cell genomics                            |              |       |         |                                                                              |
+| 19      | Nov 8 (Wed)  | MMW703   | Data visualization                              |              |       |         | <span style="color:red;">Project M-report (Proposal)</span>                  |
+| 20      | Nov 10 (Fri) | MMW703   | Tutorial                                        |              |       |         |                                                                              |
 |         |              |          | <span style="color:blue">Module 3 start</span>  |              |       |         |                                                                              |
-| 21      | Nov 16 (Wed) | MMW703   | Deep learning/CNN                               |              |       |         | <span style="color:red;">PA1 due</span>, A3 posted                           |
-| 22      | Nov 18 (Fri) | MMW703   | EHRs & Text                                     |              |       |         |                                                                              |
-| 23      | Nov 23 (Wed) | MMW703   | Drug & Presentation                             |              |       |         |                                                                              |
-| 24      | Nov 25 (Fri) | MMW703   | Project Presentation                            |              |       |         | <span style="color:red;">A3 due</span>                                       |
-| 25      | Nov 30 (Wed) | MMW703   | Course review                                   |              |       |         | <span style="color:red;">Quiz</span>                                         |
-| 26      | Dec 2 (Fri)  | MMW703   | Project Presentation                            |              |       |         | <span style="color:red;">Project report</span>                               |
+| 21      | Nov 15 (Wed) | MMW703   | Deep learning/CNN                               |              |       |         | <span style="color:red;">PA1 due</span>, A3 posted                           |
+| 22      | Nov 17 (Fri) | MMW703   | EHRs & Text                                     |              |       |         |                                                                              |
+| 23      | Nov 22 (Wed) | MMW703   | Drug & Presentation                             |              |       |         |                                                                              |
+| 24      | Nov 24 (Fri) | MMW703   | Project Presentation                            |              |       |         | <span style="color:red;">A3 due</span>                                       |
+| 25      | Nov 29 (Wed) | MMW703   | Course review                                   |              |       |         | <span style="color:red;">Quiz</span>                                         |
+| 26      | Dec 1 (Fri)  | MMW703   | Project Presentation                            |              |       |         | <span style="color:red;">Project report</span>                               |
 
 ### <a id="assignments">Assignments</a>
 <ul>
