@@ -28,7 +28,7 @@ Jiuming Wang (<span style="color: #0099e6">ATcse.cuhk.edu.hk</span>), SHB-122. O
 #### Time and location
 <b>Wednesday</b>: <b>9:30am-11:15am</b>, <b>MMW-703</b>. <br>
 <b>Friday</b>: <b>9:30am-10:15am</b>, <b>MMW-703</b>. <br>
-<b>Friday</b>: <b>10:30-11:15am</b>, <b>MMW-703</b>. Tutorial <br>
+<b>Friday</b>: <b>10:30am-11:15am</b>, <b>MMW-703, Tutorial</b>. <br>
 
 #### Format
 Mixed. Slides will be available the day before the lecture day. Video recordings will be available after the lecture.
@@ -38,7 +38,7 @@ Mixed. Slides will be available the day before the lecture day. Video recordings
 
 
 #### Communications
-<b>Blackboard</b> is the main software to manage the course, and grading will be through blackboard. We will use <b>Piazza</b> (<a href="http://piazza.com/cuhk.edu.hk/fall2022/bmeg3105">BMEG3105</a>) for discussion. You can ask questions through Piazza, even anonymously. For a personal matter, please use the private post to the instructor and the TA. You are also very welcomed to send <b>emails</b> to the instructor and TAs.
+<b>Blackboard</b> is the main software to manage the course, and grading will be through Blackboard. We will use <b>Piazza</b> (<a href="http://piazza.com/cuhk.edu.hk/fall2022/bmeg3105">BMEG3105</a>) for discussion. You can ask questions through Piazza, even anonymously. For a personal matter, please use the private post to the instructor and the TA. You are also very welcomed to send <b>emails</b> to the instructor and TAs.
 
 
 #### Grading
