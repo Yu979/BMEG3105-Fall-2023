@@ -89,7 +89,8 @@ Please sign up the <a href="https://docs.google.com/spreadsheets/d/13zLvC_PHo3qk
 We should have at least one student for each lecture. We may adjust the assignment if necessary. 
 Notice that your note and scribing will be posted online, for others reference. 
 You can choose to remove your name or not. Deadline for signing the scribing: **<span style="color:red;">11:59 pm on 12th Sep</span>**. 
-After that, the Google sheet will be closed.
+After that, the Google sheet will be closed. 
+For students assigned to the first two lectures, you have additional one week to submit the scribing. 
 
 #### Projects
 We will have individual projects.
