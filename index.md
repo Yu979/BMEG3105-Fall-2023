@@ -52,7 +52,7 @@ You are also very welcomed to send emails to the teaching team.
 
 #### Grading
 <ul>
-<li><b>Homework (20%)</b>: Three graded homework (A1, A2, A3; 5%, 5%, 5%) and one non-graded programming assignment (PA0; 5%, to ensure you can learn something from it).</li>
+<li><b>Homework (20%)</b>: Three graded homework (A1, A2, A3; 5%, 5%, 5%) and one non-graded programming assignment (PA1; 5%, to ensure you can learn something from it).</li>
 <li><b>Scribing (10%)</b>: Graded scribing. Summarize one of the lectures. Submit it within one week after the course. Each student should do at least one lecture. You can sign for at most two, for additional 1%.</li>
 <li><b>In-class quiz (10%)</b>: Two in-class quizzes. The questions will be simple, mainly for checking the participation. The exact date is in the schedule below.</li>
 <li><b>Midterm exam (20%)</b>: A graded midterm exam with one bonus question (extra 2%). </li>
