@@ -132,7 +132,7 @@ But we will check the things in detail if the number of survey forms we received
 | 5       | Sep 20 (Wed) | MMW703   | Data exploration                                |              |       |         |                                                                            |
 | 6       | Sep 22 (Fri) | MMW703   | Distance and clustering                         |              |       |         |                                                                            |
 | 7       | Sep 27 (Wed) | MMW703   | Classification                                  |              |       |         | <span style="color:red;">A1 due</span>                                     |
-| 8       | Sep 19 (Fri) | MMW703   | Classification                                  |              |       |         |                                                                            |
+| 8       | Sep 29 (Fri) | MMW703   | Classification                                  |              |       |         |                                                                            |
 | 9       | Oct 4 (Wed)  | MMW703   | Perf evaluation                                 |              |       |         | A2 posted                                                                  |
 | 10      | Oct 6 (Fri)  | MMW703   | Feature selection                               |              |       |         |                                                                            |
 | 11      | Oct 11 (Wed) | MMW703   | Dim reduction                                   |              |       |         |                                                                            |
