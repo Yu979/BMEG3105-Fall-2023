@@ -80,7 +80,7 @@ We will grade on the one you would like us to grade, but if you do not hand in y
 Python (the TA will prepare a recitation class to introduce it, mainly for the non-grading homework and your project) or any other languages that you are familiar with. 
 For python, we suggest you to use <a href="https://colab.research.google.com/notebooks/intro.ipynb">Colab</a>. <br>
 
-The programming assessments include a non-graded programming assignment (10%) and the implementation in the project (5%). 
+The programming assessments include a non-graded programming assignment (5%) and the implementation in the project (5%). 
 The bonus is sufficient to cover all the programming credit in the project, if you really do not want to try hand-on experiments at all. 
 We do encourage you try.
 
@@ -156,8 +156,7 @@ But we will check the things in detail if the number of survey forms we received
 
 ### <a id="assignments">Assignments</a>
 <ul>
-  
-<li>Programming Assignment 0: Get yourself familiar with <a href="https://colab.research.google.com/notebooks/intro.ipynb">Colab</a>, set up the environment and run a sample code.
+<li>Programming Assignment 0: Get yourself familiar with <a href="https://colab.research.google.com/notebooks/intro.ipynb">Colab</a>, set up the environment and run a sample code.</li>
 
 <li>Assignment 1: Basic concept of data analytics-1</li>
 
@@ -166,5 +165,4 @@ But we will check the things in detail if the number of survey forms we received
 <li>Programming Assignment 1: Application of DA to biology</li>
 
 <li>Assignment 3: DA in Personalized Genomics and Precision Medicine</li>
-
 </ul>
