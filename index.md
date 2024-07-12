@@ -30,7 +30,7 @@ TA:
 <ul>
 <li>Qinze YU (<span style="color: #0099e6">qzyu22@cse.cuhk.edu.hk</span>), SHB-116. Office hour: 2pm-4pm, Monday </li>
 <li>Yixuan WANG (<span style="color: #0099e6">yxwang@cse.cuhk.edu.hk</span>), SHB-116. Office hour: 1pm-3pm, Tuesday</li>
-<li>Jiuming WANG (<span style="color: #0099e6">jmwang9@cse.cuhk.edu.hk</span>), SHB-122. Office hour: 2pm-4pm, Thursday</li>
+<li>Jiuming WANG (<span style="color: #0099e6">jmwang@link.cuhk.edu.hk</span>), SHB-904. Office hour: 2pm-4pm, Thursday</li>
 </ul>
 
 #### Time and location
